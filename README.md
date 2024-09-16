@@ -1,5 +1,12 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
+# TinyQV - A Risc-V SoC for Tiny Tapeout
+
+- [Documentation for project](docs/info.md)
+- [More details about tinyQV](https://github.com/MichaelBell/tinyQV)
+- [tinyQV-sdk for building tinyQV programs](https://github.com/MichaelBell/tinyQV-sdk)
+- [Example tinyQV programs](https://github.com/MichaelBell/tinyQV-projects)
+
 # Tiny Tapeout Verilog Project Template
 
 - [Read the documentation for project](docs/info.md)
